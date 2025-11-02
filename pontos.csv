@@ -1,0 +1,11 @@
+id,nome,tipo,localizacao
+1,Ponto A,PontoEmbarque,"Rua das Flores, 101"
+2,Ponto B,PontoEmbarque,"Rua das Rosas, 250"
+3,Ponto C,PontoEmbarque,"Av. Central, 400"
+4,Ponto D,PontoEmbarque,"Rua Bela Vista, 50"
+5,Ponto E,PontoEmbarque,"Rua São José, 900"
+6,Ponto F,PontoEmbarque,"Rua do Sol, 310"
+7,Ponto G,PontoEmbarque,"Rua das Palmeiras, 122"
+8,Ponto H,PontoEmbarque,"Av. Brasil, 550"
+9,Ponto I,PontoEmbarque,"Rua Alegre, 710"
+10,Escola Central,Escola,"Rua da Educação, 10"
