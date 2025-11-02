@@ -30,4 +30,4 @@ with open("data/alunos.csv", encoding="utf-8") as f:
         rel = Relationship(aluno, "ESPERA_EM", pontos[row["ponto_id"]])
         graph.create(rel)
 
-print("✅ Banco de dados populado com sucesso!")
+print("Banco de dados populado com sucesso!")
